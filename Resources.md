@@ -13,4 +13,13 @@ Driving Video Samples:  1#  https://www.youtube.com/watch?v=5X5dFPwGYKg
                         2#  https://www.youtube.com/watch?v=oyfrPrGmBL4
      Night Drive        3#  https://www.youtube.com/watch?v=ICGTcCinouI
      
+Lande Detection Thesis: https://www.diva-portal.org/smash/get/diva2:829209/FULLTEXT01.pdf
+
+A Simple and Efficient Lane Detection using Clustering and Weighted Regression:  https://www.researchgate.net/publication/221324943_A_Simple_and_Efficient_Lane_Detection_using_Clustering_and_Weighted_Regression/figures?lo=1
+
+Install OpenCV and Python: http://web.cecs.pdx.edu/~fliu/courses/cs410/python-opencv.html
+
+OpenCV Python Tutorial: https://www.youtube.com/watch?v=yvfI4p6Wyvk&t=9s
+
+     
 
