@@ -1,10 +1,12 @@
 
 
-Driving Video Samples:  1#  https://www.youtube.com/watch?v=5X5dFPwGYKg
+# Driving Video Samples: 
+                        1#  https://www.youtube.com/watch?v=5X5dFPwGYKg
                         2#  https://www.youtube.com/watch?v=oyfrPrGmBL4
      Night Drive        3#  https://www.youtube.com/watch?v=ICGTcCinouI
      
-Lande Detection Thesis: https://www.diva-portal.org/smash/get/diva2:829209/FULLTEXT01.pdf
+# Lande Detection Thesis: 
+                        https://www.diva-portal.org/smash/get/diva2:829209/FULLTEXT01.pdf
 
 
 
